@@ -22,7 +22,7 @@ export default defineConfig({
   preview: {
     port: 4300,
     host: '0.0.0.0',
-  },
+  }, 
 
   plugins: [react(), nxViteTsPaths()],
 
